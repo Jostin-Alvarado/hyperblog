@@ -7,3 +7,5 @@ Actualmente tiene 20 años, hoy hablaremos de su historia.
 Esta es la primer modificación, estas líneas antes no existían.
 
 Antes tenía copete, ahora se cortó pelón.
+
+Ahora es programador, estudia en Platzi y Cenfotec.
