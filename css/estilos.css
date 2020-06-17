@@ -43,3 +43,8 @@ body
 {
     padding: 1em;
 }
+
+#img{
+    width: 50%;
+    height: 500px;
+}
