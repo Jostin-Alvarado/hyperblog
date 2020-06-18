@@ -1,7 +1,7 @@
-###Hyperblog
+# Hyperblog
 Un sitio para aprender de git y github gracias a platzi.
 
-###En este curso veremos
+# En este curso veremos
 * Comandos de git.
 * Flujo de trabajo en GitHub.
 * El verdadero amor por las buenas prácticas.
